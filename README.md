@@ -1,2 +1,2 @@
 # cursoPHPaluraArrays
-Curso onde pratico todos os conceitos de arrays
+Curso onde prático todos os conceitos com arrays
